@@ -1,0 +1,42 @@
+{
+    "item_id":{
+        "101":101,
+        "102":102,
+        "103":"103"
+    },
+    "name":{
+        "101":"Wallet",
+        "102":"Mobile",
+        "103":"ID Card"
+    },
+    "date":{
+        "101":1776211200000,
+        "102":1776211200000,
+        "103":"15-04-2026"
+    },
+    "description":{
+        "101":"Black leather wallet",
+        "102":"Samsung Galaxy phone",
+        "103":"College ID card"
+    },
+    "category":{
+        "101":"accessories",
+        "102":"electronics",
+        "103":"documents"
+    },
+    "location":{
+        "101":"library",
+        "102":"classroom",
+        "103":"canteen"
+    },
+    "contact":{
+        "101":9848172586,
+        "102":9123456780,
+        "103":"1231233211"
+    },
+    "status":{
+        "101":"Lost",
+        "102":"Lost",
+        "103":"Lost"
+    }
+}
